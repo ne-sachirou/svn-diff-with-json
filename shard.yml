@@ -1,0 +1,13 @@
+name: svn-diff-with-json
+version: 0.1.0
+
+authors:
+  - ne_Sachirou <utakata.c4se@gmail.com>
+
+targets:
+  svn_diff_with_json:
+    main: bin/svn-diff-with-json.cr
+
+crystal: 0.20.5
+
+license: MIT
