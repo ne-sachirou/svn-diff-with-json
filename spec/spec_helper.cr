@@ -1,2 +1,2 @@
 require "spec"
-require "../src/svn-diff-with-json"
+require "../src/svn_diff_with_json"
